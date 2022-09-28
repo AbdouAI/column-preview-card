@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/AbdouAI/column-preview-card)
+- Live Site URL: (https://abdouai.github.io/column-preview-card/)
 
 ## My process
 
